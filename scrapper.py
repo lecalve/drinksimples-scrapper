@@ -136,18 +136,18 @@ class DrinkSimplesScrapper:
         """Extrair dados de HTML fornecido"""
         soup = BeautifulSoup(html_content, 'lxml')
         
-        # Estrutura de dados SIMPLIFICADA para BD
+        # Estrutura de dados SEO OTIMIZADA (Schema.org Recipe)
         drink_data = {
             'id': drink_id or len(self.drinks_data) + 1,
-            'titulo': '',
-            'categoria': '',
-            'caracteristicas': [],
-            'copo': '',
-            'origem': '',
-            'ingredientes': [],
-            'dicas_ingredientes': [],
-            'modo_preparo': [],
-            'imagem': ''  # Apenas nome do arquivo
+            'name': '',
+            'category': '',
+            'characteristics': [],
+            'glassType': '',
+            'origin': '',
+            'recipeIngredient': [],
+            'notes': [],
+            'recipeInstructions': [],
+            'image': ''  # Apenas nome do arquivo
         }
         
         # 1. TÍTULO
@@ -162,22 +162,22 @@ class DrinkSimplesScrapper:
                 if title_elem:
                     title_text = title_elem.get_text(strip=True)
                     if title_text and len(title_text) > 3 and len(title_text) < 100:
-                        drink_data['titulo'] = title_text
+                        drink_data['name'] = title_text
                         break
             except:
                 continue
         
         # Se não achou, procurar por palavras-chave em qualquer tag
-        if not drink_data['titulo']:
+        if not drink_data['name']:
             all_tags = soup.find_all(['h1', 'h2', 'h3', 'h4', 'strong', 'b'])
             for tag in all_tags:
                 text = tag.get_text(strip=True)
                 if any(keyword in text.lower() for keyword in ['martini', 'caipirinha', 'mojito', 'piña', 'manhattan', 'cosmopolitan']):
                     if 5 <= len(text) <= 50:
-                        drink_data['titulo'] = text
+                        drink_data['name'] = text
                         break
         
-        if not drink_data['titulo']:
+        if not drink_data['name']:
             print("    ⚠️ Título não encontrado")
             return None
         
@@ -186,26 +186,26 @@ class DrinkSimplesScrapper:
         
         # Categoria
         if 'alcoólico' in page_text.lower():
-            drink_data['categoria'] = 'Não Alcoólico' if 'não alcoólico' in page_text.lower() else 'Alcoólico'
+            drink_data['category'] = 'Não Alcoólico' if 'não alcoólico' in page_text.lower() else 'Alcoólico'
         
         # Características
         caracteristicas = ['clássico', 'forte', 'seco', 'doce', 'amargo', 'refrescante', 'cremoso', 'frutado', 'tropical', 'gelado']
         for keyword in caracteristicas:
             if keyword in page_text.lower():
-                drink_data['caracteristicas'].append(keyword.title())
+                drink_data['characteristics'].append(keyword.title())
         
         # Copo
         copos = ['taça de coquetel', 'taça martini', 'taça', 'copo', 'mixing glass', 'rocks glass', 'highball', 'old fashioned']
         for copo in copos:
             if copo in page_text.lower():
-                drink_data['copo'] = copo.title()
+                drink_data['glassType'] = copo.title()
                 break
         
         # Origem
         origens = ['estados unidos', 'brasil', 'cuba', 'inglaterra', 'frança', 'itália', 'méxico', 'argentina', 'peru', 'jamaica']
         for origem in origens:
             if origem in page_text.lower():
-                drink_data['origem'] = origem.title()
+                drink_data['origin'] = origem.title()
                 break
         
         # 3. INGREDIENTES
@@ -214,7 +214,7 @@ class DrinkSimplesScrapper:
             next_ul = h3_ingredientes.find_next('ul')
             if next_ul:
                 ingredientes = [li.get_text(strip=True) for li in next_ul.find_all('li')]
-                drink_data['ingredientes'] = [ing for ing in ingredientes if ing]
+                drink_data['recipeIngredient'] = [ing for ing in ingredientes if ing]
                 
                 # Dicas após ingredientes
                 current = next_ul.find_next_sibling()
@@ -232,7 +232,7 @@ class DrinkSimplesScrapper:
                     if not current:
                         break
                 
-                drink_data['dicas_ingredientes'] = dicas
+                drink_data['notes'] = dicas
         
         # 4. MODO DE PREPARO
         h3_preparo = soup.find('h3', string='Preparo')
@@ -240,7 +240,7 @@ class DrinkSimplesScrapper:
             next_ol = h3_preparo.find_next('ol')
             if next_ol:
                 preparo_steps = [li.get_text(strip=True) for li in next_ol.find_all('li')]
-                drink_data['modo_preparo'] = [step for step in preparo_steps if step]
+                drink_data['recipeInstructions'] = [step for step in preparo_steps if step]
         
         # 5. IMAGEM (extrair URL e baixar)
         img_url = None
@@ -252,7 +252,7 @@ class DrinkSimplesScrapper:
                     imgs = soup.find_all('img', src=True)
                     for img in imgs:
                         src = img.get('src', '')
-                        if any(keyword in src.lower() for keyword in ['drink', 'cocktail', 'receita', drink_data['titulo'].lower()]):
+                        if any(keyword in src.lower() for keyword in ['drink', 'cocktail', 'receita', drink_data['name'].lower()]):
                             img_url = src
                             break
                 else:
@@ -271,11 +271,11 @@ class DrinkSimplesScrapper:
             elif img_url.startswith('/'):
                 img_url = BASE_URL + img_url
             
-            image_filename = self.download_image(img_url, drink_data['titulo'])
+            image_filename = self.download_image(img_url, drink_data['name'])
             if image_filename:
-                drink_data['imagem'] = image_filename
+                drink_data['image'] = image_filename
         
-        print(f"    ✅ {drink_data['titulo']}: {len(drink_data['ingredientes'])} ingredientes, {len(drink_data['modo_preparo'])} passos")
+        print(f"    ✅ {drink_data['name']}: {len(drink_data['recipeIngredient'])} ingredientes, {len(drink_data['recipeInstructions'])} passos")
         return drink_data
     
     def process_text_content(self, text_content, url=""):
@@ -419,9 +419,9 @@ def process_url_range(scrapper, start=None, end=None):
                     drink = scrapper.add_recipe(response.text, "html", url)
                     if drink:
                         total_found += 1
-                        print(f"    📝 {drink['titulo']}")
-                        if drink['imagem']:
-                            print(f"    🖼️ {drink['imagem']}")
+                        print(f"    📝 {drink['name']}")
+                        if drink['image']:
+                            print(f"    🖼️ {drink['image']}")
                     else:
                         print(f"    ❌ Erro no processamento")
                 else:
@@ -456,13 +456,13 @@ def process_single_url(scrapper, url_input):
         if response.status_code == 200:
             drink = scrapper.add_recipe(response.text, "html", url)
             if drink:
-                print(f"✅ Receita processada: {drink['titulo']}")
-                if drink.get('categoria'):
-                    print(f"🍽️ Categoria: {drink['categoria']}")
-                print(f"📝 Ingredientes: {len(drink['ingredientes'])}")
-                print(f"👨‍🍳 Preparo: {len(drink['modo_preparo'])}")
-                if drink['imagem']:
-                    print(f"🖼️ Imagem: {drink['imagem']}")
+                print(f"✅ Receita processada: {drink['name']}")
+                if drink.get('category'):
+                    print(f"🍽️ Categoria: {drink['category']}")
+                print(f"📝 Ingredientes: {len(drink['recipeIngredient'])}")
+                print(f"👨‍🍳 Preparo: {len(drink['recipeInstructions'])}")
+                if drink['image']:
+                    print(f"🖼️ Imagem: {drink['image']}")
                 return True
             else:
                 print(f"❌ Falha no processamento")

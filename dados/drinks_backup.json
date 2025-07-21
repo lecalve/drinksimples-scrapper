@@ -1,51 +1,51 @@
 [
   {
     "id": 1,
-    "name": "Gin Rickey",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Gin Rickey",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "1 ½ dose de gin",
       "½ dose de suco de limão",
       "⅓ dose de xarope simples",
-      "Club Soda ou Água com Gás",
+      "Club Soda ou água com gás",
       "1 fatia de limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade de uma coqueteleira.",
       "Adicione o gin, o suco de limão e o xarope simples.",
       "Agite bem e coe pelo strainer no copo cheio de gelo.",
       "Complete com a Club Soda ou a água com gás e adicione a fatia de limão."
     ],
-    "image": "gin_rickey.jpg"
+    "imagem": "gin_rickey.jpg"
   },
   {
     "id": 2,
-    "name": "Dry Martini",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Dry Martini",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte",
       "Seco",
       "Gelado"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "2 doses de gin",
       "3 gotas de vermute seco",
       "cubos de gelo",
       "azeitonas verdes",
       "casca de limão siciliano"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade do mixing glass.",
       "Pingue três gotas de vermute seco sobre o gelo e misture levemente com uma colher bailarina.",
       "Em seguida, acrescente o gin e mexa novamente durante cerca de dez segundos, até que os líquidos estejam bem gelados.",
@@ -53,27 +53,27 @@
       "Passe um pedaço de casca de limão siciliano na borda da taça, apenas para deixar seu perfume.",
       "Espete de uma a três azeitonas verdes em um palito, coloque dentro da taça e sirva imediatamente."
     ],
-    "image": "dry_martini.jpg"
+    "imagem": "dry_martini.jpg"
   },
   {
     "id": 3,
-    "name": "Brandy Alexander",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Brandy Alexander",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Cremoso"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "2 doses de conhaque",
       "2 doses de licor de cacau",
       "2 doses de creme de leite",
       "Cubos de gelo",
       "noz-moscada (para polvilhar)"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque de 3 a 5 pedras de gelo numa coqueteleira.",
       "Adicione o conhaque e o licor de cacau.",
       "Acrescente o creme de leite por último.",
@@ -81,41 +81,41 @@
       "Coe com o strainer, despejando apenas o conteúdo na taça.",
       "Polvilhe a noz-moscada ralando-a por cima."
     ],
-    "image": "brandy_alexander.jpg"
+    "imagem": "brandy_alexander.jpg"
   },
   {
     "id": 4,
-    "name": "Amarula Ginger",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Amarula Ginger",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Cremoso"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "60ml de amarula cream",
       "45ml de xarope de gengibre",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha uma coqueteleira com gelo.",
       "Adicione a Amarula Cream e o xarope de gengibre.",
       "Agite bem e coe pelo strainer, despejando somente o líquido na taça."
     ],
-    "image": "amarula_ginger.jpg"
+    "imagem": "amarula_ginger.jpg"
   },
   {
     "id": 5,
-    "name": "Amore Vietato",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Amore Vietato",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "2 doses de gin",
       "1 dose de suco de toranja",
       "Algumas gotas de xarope simples",
@@ -123,8 +123,8 @@
       "1 pepino para decorar",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque até metade da coqueteleira de gelo.",
       "Acrescente os morangos e as gotas de xarope simples.",
       "Adicione o gin e por fim o suco de toranja.",
@@ -132,44 +132,44 @@
       "Coloque morangos fatiados dentro do drink.",
       "Decore com espirais da casca de pepino e corações feitos da casca da toranja."
     ],
-    "image": "amore_vietato.jpg"
+    "imagem": "amore_vietato.jpg"
   },
   {
     "id": 6,
-    "name": "Aperol Spritz",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Aperol Spritz",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Amargo",
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Itália",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Itália",
+    "ingredientes": [
       "3 doses de prosecco",
       "2 doses de aperol",
       "1 dose de água com gás",
       "1 laranja",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o gelo na taça e adicione o prosecco.",
       "Acrescente o Aperol e em seguida a água com gás.",
       "Mexa levemente com uma colher bailarina e coloque meia fatia de laranja dentro."
     ],
-    "image": "aperol_spritz.jpg"
+    "imagem": "aperol_spritz.jpg"
   },
   {
     "id": 7,
-    "name": "Apple Cider Soda",
-    "recipeCategory": "",
-    "keywords": [
+    "titulo": "Apple Cider Soda",
+    "categoria": "",
+    "caracteristicas": [
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "250 ml de suco de maçã",
       "1 laranja cortada em fatias",
       "5 palitos de canela em pau",
@@ -177,59 +177,59 @@
       "500 ml de água com Gás",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Em uma panela, ferva o suco de maçã, a laranja picada em pedaços, o gengibre e a canela.",
       "Diminua o fogo e deixe cozinhar por 30 minutos em fogo baixo.",
       "Quando estiver pronto, espere esfriar, coloque em uma jarra e deixe resfriar na geladeira por 10 minutos.",
       "Ao servir, coloque gelo até a metade do copo e adicione 100ml de água com Gás.",
       "Acrescente 50 ml da cidra de maçã e decore com meia fatia de laranja e um palito de canela em pau."
     ],
-    "image": "apple_cider_soda.jpg"
+    "imagem": "apple_cider_soda.jpg"
   },
   {
     "id": 8,
-    "name": "Appleberry",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Appleberry",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de Bacardi big apple",
       "Suco de cranberry",
       "5 gotas de suco de limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque 3 pedras de gelo no copo e pingue algumas gotas de limão.",
       "Adicione o bacardi big apple.",
       "Mexa levemente e adicione o suco de cranberry à gosto.",
       "Se achar necessário, acrescente mais gelo."
     ],
-    "image": "appleberry.jpg"
+    "imagem": "appleberry.jpg"
   },
   {
     "id": 9,
-    "name": "B-52",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "B-52",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce",
       "Cremoso"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "½ dose de Bailey's",
       "½ dose de Grand Marnier",
       "½ dose de licor de café"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Adicione os ingredientes com o auxílio de uma colher bailarina nessa ordem:",
       "O licor de café.",
       "O Bailey's.",
@@ -237,18 +237,18 @@
       "O drink ficará com 3 camadas.",
       "Ao servir, pode ser colocado fogo no topo."
     ],
-    "image": "b_52.jpg"
+    "imagem": "b_52.jpg"
   },
   {
     "id": 10,
-    "name": "Bloody Mary",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Bloody Mary",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de vodka",
       "150 ml de suco de tomate",
       "1 colher (chá) de molho inglês",
@@ -258,8 +258,8 @@
       "Pimenta-do-Reino preta moída a gosto",
       "1 talo de salsão e/ou um pedaço de limão siciliano para decorar"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Comece colocando o molho inglês diretamente no copo.",
       "Adicione o suco de limão, o Tabasco e o sal.",
       "Misture bem e adicione o gelo.",
@@ -267,140 +267,140 @@
       "Tempere com a pimenta-do-reino preta moída a gosto.",
       "Misture levemente com uma colher e decore com a fatia de limão siciliano e/ou o talo de salsão."
     ],
-    "image": "bloody_mary.jpg"
+    "imagem": "bloody_mary.jpg"
   },
   {
     "id": 11,
-    "name": "Bourbon Rickey",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Bourbon Rickey",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 limão",
       "1 dose de bourbon",
       "Club Soda",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o gelo picado no copo, esprema meio limão e jogue a casca dentro do copo.",
       "Adicione o bourbon e complete com a Club Soda.",
       "Mexa levemente para misturar, decore com uma fatia de limão e sirva."
     ],
-    "image": "bourbon_rickey.jpg"
+    "imagem": "bourbon_rickey.jpg"
   },
   {
     "id": 12,
-    "name": "Caipirinha",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Caipirinha",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Brasil",
+    "ingredientes": [
       "1 dose de cachaça",
       "1 limão tahiti médio",
       "2 colheres (sopa) rasas de açúcar refinado",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Corte as pontas do limão tahiti e corte-o em 4, retirando o miolo branco dos gomos.",
       "Em uma coqueteleira use o pilão para macerar levemente o limão junto com o açúcar.",
       "Adicione o gelo e, em seguida, a cachaça.",
       "Agite bem e despeje tudo no copo, sem coar."
     ],
-    "image": "caipirinha.jpg"
+    "imagem": "caipirinha.jpg"
   },
   {
     "id": 13,
-    "name": "Caipiroska de Ameixa",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Caipiroska de Ameixa",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Brasil",
+    "ingredientes": [
       "1 dose de vodka",
       "1 ameixa grande",
       "1 colher (sopa) rasa de açúcar"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Corte a ameixa em pedaços pequenos, tirando o caroço.",
       "Em uma coqueteleira, macere a ameixa junto com o açúcar.",
       "Adicione o gelo e a dose de vodka.",
       "Agite levemente e despeje tudo no copo, sem coar."
     ],
-    "image": "caipiroska_de_ameixa.jpg"
+    "imagem": "caipiroska_de_ameixa.jpg"
   },
   {
     "id": 14,
-    "name": "Caipirinha de Tangerina com Pimenta Rosa",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Caipirinha de Tangerina com Pimenta Rosa",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Brasil",
+    "ingredientes": [
       "2 doses de cachaça",
       "½ tangerina",
       "2 colheres (sobremesa) de açúcar",
       "1 colher (sobremesa) de pimenta rosa",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Corte a tangerina em fatias grossas e macere com o açúcar no fundo do copo.",
       "Coloque a pimenta rosa e a cachaça.",
       "Mexa levemente para misturar os ingredientes e adicione gelo até que alcance a borda do copo."
     ],
-    "image": "caipirinha_de_tangerina_com_pimenta_rosa.jpg"
+    "imagem": "caipirinha_de_tangerina_com_pimenta_rosa.jpg"
   },
   {
     "id": 15,
-    "name": "Cape Cod",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Cape Cod",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de vodka",
       "2 ½ doses de suco de cranberry",
       "Cubos de gelo",
       "1 fatia triangular de limão"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha o copo com gelo.",
       "Adicione a vodka e acrescente o suco de cranberry.",
       "Mexa bem, decore com a fatia de limão e sirva."
     ],
-    "image": "cape_cod.jpg"
+    "imagem": "cape_cod.jpg"
   },
   {
     "id": 16,
-    "name": "Choconhaque",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Choconhaque",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Amargo",
       "Cremoso"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 litro de leite integral",
       "½ lata de leite condensado",
       "1 colher (sobremesa) de essência de baunilha",
@@ -408,26 +408,26 @@
       "200 gramas de chocolate meio amargo",
       "3 doses de conhaque"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Pique o chocolate.",
       "Numa panela funda, coloque todos os ingredientes, menos o conhaque.",
       "Ferva por aproximadamente 10 minutos em fogo médio, ou até que o caldo fique levemente grosso.",
       "Desligue o fogo, acrescente o conhaque e misture bem.",
       "Sirva quente."
     ],
-    "image": "choconhaque.jpg"
+    "imagem": "choconhaque.jpg"
   },
   {
     "id": 17,
-    "name": "Clericot (Sangria Blanche)",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Clericot (Sangria Blanche)",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "750 ml de vinho branco",
       "1 dose de Cointreau",
       "1 lata de Club Soda ou água com gás",
@@ -439,8 +439,8 @@
       "De 4 a 8 colheres (sopa) rasas de açúcar",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Corte a laranja e o limão em rodelas.",
       "Corte os morangos e o pêssego em pedaços.",
       "Coloque as frutas numa poncheira ou numa jarra e encha até a metade de gelo.",
@@ -449,70 +449,70 @@
       "Decore com um ramo de hortelã.",
       "Ao servir, derrame apenas o líquido na taça."
     ],
-    "image": "clericot_sangria_blanche.jpg"
+    "imagem": "clericot_sangria_blanche.jpg"
   },
   {
     "id": 18,
-    "name": "Coquetel de Melancia",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Coquetel de Melancia",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "50 gramas de melancia",
       "50 ml de saquê",
       "2 colheres (sopa) de açúcar",
       "20 ml de suco de limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Em um coqueteleira, coloque a melancia, o açúcar, o suco de limão e alguns cubos de gelo.",
       "Agite bem.",
       "Despeje toda a mistura no copo e acrescente o saquê.",
       "Misture com um mexedor.",
       "Decore com um raminho de hortelã."
     ],
-    "image": "coquetel_de_melancia.jpg"
+    "imagem": "coquetel_de_melancia.jpg"
   },
   {
     "id": 19,
-    "name": "Coquetel de Natal",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Coquetel de Natal",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Cremoso"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "1 lata de leite condensado",
       "A mesma medida de vinho do porto",
       "2 doses de conhaque",
       "5 nozes picadas",
       "10 pedras de gelo picadas"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "No liquidificador, bata o leite condensado, o vinho do porto, o conhaque e as nozes.",
       "Acrescente o gelo e bata novamente até obter uma mistura homogênea.",
       "Sirva na taça e adicione nozes moídas por cima da bebida."
     ],
-    "image": "coquetel_de_natal.jpg"
+    "imagem": "coquetel_de_natal.jpg"
   },
   {
     "id": 20,
-    "name": "Cosmopolitan",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Cosmopolitan",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "1 dose de vodka",
       "2 doses de suco de cranberry",
       "½ dose de Cointreau",
@@ -520,48 +520,48 @@
       "Cubos de gelo",
       "Zeste de laranja para decorar"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione a vodka, o Cointreau, o suco de limão e, por fim, o suco de cranberry.",
       "Agite bem e transfira a bebida, sem o gelo, para a taça.",
       "Torça a zeste de laranja e coloque na borda da taça para decorar."
     ],
-    "image": "cosmopolitan.jpg"
+    "imagem": "cosmopolitan.jpg"
   },
   {
     "id": 21,
-    "name": "Death in the Afternoon",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Death in the Afternoon",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Refrescante",
       "Gelado"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 ½ dose de absinto",
       "4 ½ doses de espumante gelado"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o absinto na taça e complete com o espumante.",
       "Sirva gelado."
     ],
-    "image": "death_in_the_afternoon.jpg"
+    "imagem": "death_in_the_afternoon.jpg"
   },
   {
     "id": 22,
-    "name": "Dorchester",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Dorchester",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Doce"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 ½ doses de gin",
       "½ dose de licor maraschino",
       "½ dose de xarope simples",
@@ -569,53 +569,53 @@
       "¾ dose de suco de limão",
       "Cubos de gelo à vontade"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira",
       "Acrescente os ingredientes, começando pelos destilados e terminando pelos cítricos.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça."
     ],
-    "image": "dorchester.jpg"
+    "imagem": "dorchester.jpg"
   },
   {
     "id": 23,
-    "name": "Felix Khoury",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Felix Khoury",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Seco",
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Brasil",
+    "ingredientes": [
       "100 ml de vodka",
       "20 ml vermute seco",
       "30 ml Curaçao Blue",
       "1 fatia de carambola para decorar",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione a vodka, o vermute seco e o Curaçao Blue.",
       "Agite bem e despeje apenas o líquido na taça, passando pelo strainer e por uma peneira com gelo dentro.",
       "Decore com uma fatia de carambola."
     ],
-    "image": "felix_khoury.jpg"
+    "imagem": "felix_khoury.jpg"
   },
   {
     "id": 24,
-    "name": "Eggnog",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Eggnog",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Cremoso",
       "Gelado"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Inglaterra",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Inglaterra",
+    "ingredientes": [
       "1 gema",
       "1 clara",
       "12 g de açúcar",
@@ -627,8 +627,8 @@
       "40 ml de creme de leite batido",
       "Noz-moscada a gosto"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Bata a gema num bowl.",
       "Aos poucos, vá juntando metade do açúcar, batendo até ficar com uma cor esbranquiçada.",
       "Acrescente o rum, o conhaque, a essência de baunilha e o sal.",
@@ -639,43 +639,43 @@
       "Acrescente a noz-moscada e mexa até ficar tudo bem misturado.",
       "Sirva bem gelado."
     ],
-    "image": "eggnog.jpg"
+    "imagem": "eggnog.jpg"
   },
   {
     "id": 25,
-    "name": "Energy Drink",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Energy Drink",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Seco",
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 dose de vinho branco seco",
       "Frutas variadas picadas",
       "200 ml de energético",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Na coqueteleira, misture o vinho branco seco com o energético.",
       "Acrescente algumas pedras de gelo e agite brevemente.",
       "Despeje na taça e acrescente as frutas."
     ],
-    "image": "energy_drink.jpg"
+    "imagem": "energy_drink.jpg"
   },
   {
     "id": 26,
-    "name": "Floresta Negra",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Floresta Negra",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Cremoso"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "½ dose de licor de cacau",
       "½ dose de licor de cereja",
       "25 ml de chantilly",
@@ -683,175 +683,175 @@
       "1 cereja marrasquino",
       "hortelã"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque algumas pedras de gelo na coqueteleira.",
       "Adicione o licor de cacau, o licor de cereja e o chantilly.",
       "Despeje no copo passando pelo strainer, retendo o gelo.",
       "Decore com uma cereja marrasquino e um raminho de hortelã."
     ],
-    "image": "floresta_negra.jpg"
+    "imagem": "floresta_negra.jpg"
   },
   {
     "id": 27,
-    "name": "French Connection",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "French Connection",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "½ dose de conhaque",
       "½ dose de Amaretto",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo na coqueteleira.",
       "Acrescente o conhaque.",
       "Adicione o Amaretto.",
       "Mexa levemente com uma colher bailarina para combinar os ingredientes.",
       "Despeje com o gelo no copo e sirva."
     ],
-    "image": "french_connection.jpg"
+    "imagem": "french_connection.jpg"
   },
   {
     "id": 28,
-    "name": "Gimlet",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Gimlet",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "2 ½ doses de gin",
       "½ dose de suco de limão",
       "½ dose de xarope simples",
       "Casca de limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o gin, o suco de limão e o xarope simples.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Decore com a casca de limão e sirva."
     ],
-    "image": "gimlet.jpg"
+    "imagem": "gimlet.jpg"
   },
   {
     "id": 29,
-    "name": "Gin Cosmo",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Gin Cosmo",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Seco",
       "Gelado"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "2 doses de gin",
       "½ dose de Cointreau",
       "3 doses de suco de cranberry",
       "1 colher de sopa de suco de limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione o gin, o Cointreau e o suco de cranberry e agite bem.",
       "Coe pelo strainer, despejando apenas o líquido na taça.",
       "Misture o suco de limão e decore com uma zeste de limão.",
       "Sirva gelado."
     ],
-    "image": "gin_cosmo.jpg"
+    "imagem": "gin_cosmo.jpg"
   },
   {
     "id": 30,
-    "name": "Gin Tônica",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Gin Tônica",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Inglaterra",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Inglaterra",
+    "ingredientes": [
       "1 dose de gin",
       "Água tônica",
       "1 limão Tahiti",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o gelo na taça.",
       "Esprema algumas gotas do limão por cima do gelo.",
       "Coloque uma rodela de limão e adicione o gin.",
       "Complete com a água tônica e sirva."
     ],
-    "image": "gin_tônica.jpg"
+    "imagem": "gin_tônica.jpg"
   },
   {
     "id": 31,
-    "name": "Grant's Twist",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Grant's Twist",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de uísque",
       "3 gotas de suco de framboesa",
       "Limonada a gosto.",
       "2 rodelas de limão para decorar"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha o copo com pedras de gelo.",
       "Adicione o uísque e, em seguida, o suco de framboesa, misturando levemente com uma colher bailarina.",
       "Complete o copo com limonada e decore com duas rodelas de limão."
     ],
-    "image": "grants_twist.jpg"
+    "imagem": "grants_twist.jpg"
   },
   {
     "id": 32,
-    "name": "Horse's Neck",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Horse's Neck",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de conhaque",
       "3 doses de Ginger Ale ou espumante",
       "1 gota de angostura",
       "Cubos de gelo",
       "Limão"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque algumas pedras de gelo no copo.",
       "Despeje o conhaque e o Ginger Ale (ou espumante) por cima do gelo.",
       "Mexa delicadamente com uma colher bailarina e decore com raspas de limão.",
       "Pingue algumas gotas de angostura e sirva."
     ],
-    "image": "horses_neck.jpg"
+    "imagem": "horses_neck.jpg"
   },
   {
     "id": 33,
-    "name": "Jamaican Breeze",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Jamaican Breeze",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Jamaica",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Jamaica",
+    "ingredientes": [
       "1 fatia de gengibre fresco",
       "1½ dose de rum ouro",
       "2 doses de suco de abacaxi",
@@ -860,8 +860,8 @@
       "Cubos de gelo",
       "Uma fatia de limão"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Na coqueteleira, macere o gengibre fresco e adicione o rum.",
       "Acrescente então o suco de abacaxi e o xarope simples.",
       "Complete com gelo e agite bem.",
@@ -869,61 +869,61 @@
       "Adicione gelo e decore com a fatia de limão.",
       "Pingue umas gotas de angostura por cima e sirva."
     ],
-    "image": "jamaican_breeze.jpg"
+    "imagem": "jamaican_breeze.jpg"
   },
   {
     "id": 34,
-    "name": "Kamikaze",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Kamikaze",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "½ dose de vodka",
       "½ dose de Cointreau",
       "½ dose de suco de limão fresco",
       "Gelo picado"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com o gelo picado.",
       "Adicione a vodka e o Cointreau e agite brevemente.",
       "Coe através do strainer, despejando apenas o conteúdo na taça.",
       "Decore com uma fatia de limão."
     ],
-    "image": "kamikaze.jpg"
+    "imagem": "kamikaze.jpg"
   },
   {
     "id": 35,
-    "name": "Kir Royal",
-    "recipeCategory": "Alcoólico",
-    "keywords": [],
-    "serveIn": "Taça",
-    "recipeCuisine": "França",
-    "recipeIngredient": [
+    "titulo": "Kir Royal",
+    "categoria": "Alcoólico",
+    "caracteristicas": [],
+    "copo": "Taça",
+    "origem": "França",
+    "ingredientes": [
       "1 dose de licor de cassis",
       "Espumante branco",
       "1 cereja marrasquino"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o licor de cassis na taça e complete com o espumante.",
       "Decore com uma cereja marrasquino."
     ],
-    "image": "kir_royal.jpg"
+    "imagem": "kir_royal.jpg"
   },
   {
     "id": 36,
-    "name": "Lagerita",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Lagerita",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "México",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "México",
+    "ingredientes": [
       "Sal",
       "2 doses de tequila",
       "¾ dose de Cointreau",
@@ -932,73 +932,73 @@
       "Cubos de gelo",
       "1 fatia de limão"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Molhe a borda do copo e o coloque de cabeça para baixo num prato com sal.",
       "Na coqueteleira coloque a tequila, o Cointreau e o suco de limão, acrescente o gelo e agite bem.",
       "Coloque uns cubos de gelo no copo e despeje a mistura, coando pelo strainer.",
       "Complete com a cerveja.",
       "Decore com uma rodela de limão."
     ],
-    "image": "lagerita.jpg"
+    "imagem": "lagerita.jpg"
   },
   {
     "id": 37,
-    "name": "Levanta Defunto",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Levanta Defunto",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "1 dose de conhaque",
       "1 dose de Fernet Branca",
       "1 dose de licor de menta",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o conhaque, o Fernet Branca e o licor de menta.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça."
     ],
-    "image": "levanta_defunto.jpg"
+    "imagem": "levanta_defunto.jpg"
   },
   {
     "id": 38,
-    "name": "Levanta Defunto #1",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Levanta Defunto #1",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Doce"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "França",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "França",
+    "ingredientes": [
       "2 doses de conhaque",
       "1 dose de conhaque de maçã",
       "1 dose de vermute doce",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o conhaque, o conhaque de maçã e o vermute doce.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça."
     ],
-    "image": "levanta_defunto_1.jpg"
+    "imagem": "levanta_defunto_1.jpg"
   },
   {
     "id": 39,
-    "name": "Levanta Defunto #2",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Levanta Defunto #2",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "½ dose de gin",
       "½ dose de Cointreau",
       "½ dose de Lillet Blanc",
@@ -1007,129 +1007,129 @@
       "Cubos de gelo",
       "1 cereja marrasquino"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o gin, o Cointreau e o Lillet Blanc.",
       "Acrescente o suco de limão e a pitada de absinto.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Coloque a cereja marrasquino e sirva."
     ],
-    "image": "levanta_defunto_2.jpg"
+    "imagem": "levanta_defunto_2.jpg"
   },
   {
     "id": 40,
-    "name": "Limão e Gengibre",
-    "recipeCategory": "",
-    "keywords": [
+    "titulo": "Limão e Gengibre",
+    "categoria": "",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "Suco de 2 limões frescos",
       "1 colher (chá) de gengibre ralado",
       "12 gotas de adoçante",
       "500 ml de água com gás"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Numa jarra, esprema os limões e coloque o gengibre ralado.",
       "Acrescente o adoçante e a água com gás.",
       "Mexa delicadamente com a colher bailarina para misturar.",
       "Coloque gelo nas taças e despeje o conteúdo.",
       "Decore com fatias de limão e sirva."
     ],
-    "image": "limão_e_gengibre.jpg"
+    "imagem": "limão_e_gengibre.jpg"
   },
   {
     "id": 41,
-    "name": "Lolita go Home",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Lolita go Home",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Seco",
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de uísque",
       "1 dose de vinho branco seco",
       "½ dose de xarope simples",
       "2 doses de suco de toranja",
       "Gelo a vontade"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o gelo na coqueteleira.",
       "Adicione o uísque e o vinho branco.",
       "Acrescente o xarope simples e o suco de toranja.",
       "Agite bem, despeje no copo e decore com espirais de casca de toranja."
     ],
-    "image": "lolita_go_home.jpg"
+    "imagem": "lolita_go_home.jpg"
   },
   {
     "id": 42,
-    "name": "Lucid Frappe",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Lucid Frappe",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 dose de absinto",
       "½ dose de xarope simples",
       "6 a 8 folhas de hortelã",
       "Club Soda",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque as folhas de hortelã na coqueteleira.",
       "Acrescente o absinto e o xarope simples.",
       "Adicione um pouco de gelo picado e agite bem.",
       "Despeje na taça e complete com a Club Soda.",
       "Decore com um raminho de hortelã."
     ],
-    "image": "lucid_frappe.jpg"
+    "imagem": "lucid_frappe.jpg"
   },
   {
     "id": 43,
-    "name": "Manhattan",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Manhattan",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "1 dose de uísque",
       "1 dose de Vermute Vermelho",
       "Angostura",
       "1 cereja marrasquino"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Na taça já gelada, coloque o uísque.",
       "Adicione o vermute vermelho e mexa levemente.",
       "Pingue algumas gotas de Angostura e coloque a cereja marrasquino dentro."
     ],
-    "image": "manhattan.jpg"
+    "imagem": "manhattan.jpg"
   },
   {
     "id": 44,
-    "name": "Margarita",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Margarita",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "México",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "México",
+    "ingredientes": [
       "1 dose de tequila",
       "½ dose de Cointreau",
       "½ dose de suco de limão",
@@ -1138,8 +1138,8 @@
       "1 lasca de limão",
       "sal"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Espalhe o sal sobre um prato.",
       "Esfregue a lasca de limão em meia borda da taça.",
       "Mergulhe a borda da taça no sal e reserve.",
@@ -1148,19 +1148,19 @@
       "Agite vigorosamente durante 25 segundos e despeje tudo na taça que estava reservada.",
       "Coloque mais alguns cubos de gelo na taça, decore com uma rodela de limão e sirva."
     ],
-    "image": "margarita.jpg"
+    "imagem": "margarita.jpg"
   },
   {
     "id": 45,
-    "name": "Martini de Melancia",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Martini de Melancia",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Refrescante"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "4 doses de suco de melancia",
       "2 doses de vodka",
       "1 dose de xarope simples",
@@ -1168,53 +1168,53 @@
       "Cubos de gelo",
       "Fatias de melancia"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione todos os ingredientes e agite bem.",
       "Coe, despejando apenas o líquido na taça.",
       "Decore com uma fatia de melancia."
     ],
-    "image": "martini_de_melancia.jpg"
+    "imagem": "martini_de_melancia.jpg"
   },
   {
     "id": 46,
-    "name": "Martini Wasabi",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Martini Wasabi",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Seco",
       "Gelado"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "50 ml de vodka",
       "20 ml de vermute seco",
       "1 colher (café) de wasabi",
       "20 ml de licor de lichia",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione a vodka e o vermute seco.",
       "Acrescente o wasabi, finalizando com o licor de lichia.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Sirva bem gelado."
     ],
-    "image": "martini_wasabi.jpg"
+    "imagem": "martini_wasabi.jpg"
   },
   {
     "id": 47,
-    "name": "Michelada",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Michelada",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "México",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "México",
+    "ingredientes": [
       "1 lata de cerveja (pilsen ou lager)",
       "2 colheres de sopa de sal",
       "1 colher (sopa) de chilli em pó",
@@ -1224,8 +1224,8 @@
       "molho inglês",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Misture o sal e o chilli em pó em um prato.",
       "Passe um pedaço de limão na borda do copo e vire-o contra o prato para preencher suas bordas.",
       "No copo, pingue algumas gotas de molho inglês e algumas gotas de Tabasco.",
@@ -1233,19 +1233,19 @@
       "Acrescente o suco de limão e complete com a cerveja.",
       "Decore com um pedaço de limão."
     ],
-    "image": "michelada.jpg"
+    "imagem": "michelada.jpg"
   },
   {
     "id": 48,
-    "name": "Mojito",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Mojito",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Cuba",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Cuba",
+    "ingredientes": [
       "1 dose de rum",
       "10 folhas frescas de hortelã",
       "1 limão pequeno",
@@ -1253,8 +1253,8 @@
       "½ xícara de água com gás",
       "5 ou 6 cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Corte o limão em quatro gomos.",
       "Coloque as folhas de hortelã e 1 gomo de limão no copo.",
       "Macere suavemente com um pilão a hortelã e o limão para liberar o óleo da hortelã e o suco do limão.",
@@ -1266,113 +1266,113 @@
       "Decore com o gomo restante do limão e um ramo de hortelã.",
       "Sirva com canudo."
     ],
-    "image": "mojito.jpg"
+    "imagem": "mojito.jpg"
   },
   {
     "id": 49,
-    "name": "Moscow Mule (brasileiro)",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Moscow Mule (brasileiro)",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "Gengibre",
       "1 clara de ovo",
       "½ dose de suco de limão",
       "½ dose de xarope simples"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Rale cerca de 2 cm de gengibre e esprema para tirar seu suco, cerca de ½ dose.",
       "Coloque num bowl a clara de ovo junto com o xarope simples.",
       "Adicione o suco do gengibre e o suco de limão.",
       "Bata bem com um fuê até que vire uma espuma. reserve na geladeira."
     ],
-    "image": "moscow_mule_brasileiro.jpg"
+    "imagem": "moscow_mule_brasileiro.jpg"
   },
   {
     "id": 50,
-    "name": "Negroni",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Negroni",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte",
       "Doce",
       "Amargo"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Itália",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Itália",
+    "ingredientes": [
       "1 dose de Campari",
       "1 dose de gin",
       "1 dose de vermute doce",
       "1 casca de laranja",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha o copo com gelo até a borda.",
       "Adicione o campari, o gin e o vermute doce.",
       "Mexa levemente para misturar até que fique com a cor vermelho vivo.",
       "Opcionalmente, você pode colocar um pedaço de casca de laranja dentro do copo, mexendo levemente para soltar o sabor."
     ],
-    "image": "negroni.jpg"
+    "imagem": "negroni.jpg"
   },
   {
     "id": 51,
-    "name": "Paradise",
-    "recipeCategory": "Alcoólico",
-    "keywords": [],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [],
-    "notes": [],
-    "recipeInstructions": [
+    "titulo": "Paradise",
+    "categoria": "Alcoólico",
+    "caracteristicas": [],
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [],
+    "dicas": [],
+    "modo_preparo": [
       "Coloque as frutas em uma coqueteleira e macere com o pilão até que fiquem em polpa, sem pedaços grandes.",
       "Adicione a vodka e o xarope simples e agite novamente.",
       "Despeje na taça e complete com gelo.",
       "Decore com uma fatia de kiwi com casca."
     ],
-    "image": "paradise.jpg"
+    "imagem": "paradise.jpg"
   },
   {
     "id": 52,
-    "name": "Orgasm",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Orgasm",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Cremoso"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "½ dose de Cointreau",
       "½ dose de Bailey's",
       "¼ dose de Grand Marnier",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque alguns cubos de gelo no copo.",
       "Adicione o Cointreau, o Bailey's e o Grand Marnier.",
       "Mexa levemente com uma colher bailarina e decore com uma cereja marrasquino."
     ],
-    "image": "orgasm.jpg"
+    "imagem": "orgasm.jpg"
   },
   {
     "id": 53,
-    "name": "Piña Colada",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Piña Colada",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante",
       "Cremoso"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 dose de rum",
       "1 ½ dose de suco de abacaxi",
       "½ dose de leite de coco",
@@ -1380,25 +1380,25 @@
       "½ dose de creme de leite",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira, adicione o rum e o suco de abacaxi.",
       "Mexa levemente e acrescente o leite de coco, o leite condensado e o creme de leite.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça."
     ],
-    "image": "piña_colada.jpg"
+    "imagem": "piña_colada.jpg"
   },
   {
     "id": 54,
-    "name": "Pisco Sour",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Pisco Sour",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Refrescante"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Peru",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Peru",
+    "ingredientes": [
       "1 dose de pisco",
       "½ dose de xarope simples",
       "½ dose de suco de limão",
@@ -1406,26 +1406,26 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Na coqueteleira, coloque o pisco, o xarope simples e o suco de limão.",
       "Acrescente a clara de ovo e agite bem por cerca de 10 segundos.",
       "Adicione gelo até a metade da coqueteleira e agite novamente, dessa vez por 20 segundos.",
       "Coe pelo strainer, despejando apenas o líquido na taça ou copo.",
       "Pingue algumas gotas de angostura e sirva."
     ],
-    "image": "pisco_sour.jpg"
+    "imagem": "pisco_sour.jpg"
   },
   {
     "id": 55,
-    "name": "Quentão de Cachaça",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Quentão de Cachaça",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Brasil",
+    "ingredientes": [
       "1 garrafa (600 ml) de cachaça",
       "600 ml de água filtrada",
       "500 g de açúcar refinado",
@@ -1434,8 +1434,8 @@
       "8 cravos da índia",
       "Casca de uma laranja"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Limpe o gengibre e corte em pedaços de cerca de 1 cm cada.",
       "Numa panela grande, coloque o açúcar e o gengibre e aqueça em fogo médio até virar caramelo.",
       "Acrescente o cravo, a canela e a casca de laranja e cozinhe por 5 minutos.",
@@ -1443,118 +1443,118 @@
       "Coloque a cachaça e ferva por mais 10 minutos.",
       "Sirva bem quente."
     ],
-    "image": "quentão_de_cachaça.jpg"
+    "imagem": "quentão_de_cachaça.jpg"
   },
   {
     "id": 56,
-    "name": "Rob Roy",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Rob Roy",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte",
       "Seco",
       "Doce"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "½ dose de uísque",
       "15 ml de vermute doce",
       "Angostura",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione o uísque, o vermute doce e duas gotas de angostura.",
       "Agite bem e coe pelo strainer despejando apenas o líquido na taça ou no copo.",
       "Decore com uma fatia de limão"
     ],
-    "image": "rob_roy.jpg"
+    "imagem": "rob_roy.jpg"
   },
   {
     "id": 57,
-    "name": "Sex On The Beach",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Sex On The Beach",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Doce"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "1 dose de vodka gelada",
       "½ dose de licor de pêssego",
       "suco de laranja",
       "xarope de groselha",
       "2 cubos de gelo moídos."
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o gelo moído no copo ou na taça.",
       "Na coqueteleira, coloque a vodka, em seguida adicione o licor de pêssego e complete com o suco de laranja.",
       "Agite bem e despeje no copo ou na taça.",
       "Pingue algumas gotas de xarope de groselha para decorar."
     ],
-    "image": "sex_on_the_beach.jpg"
+    "imagem": "sex_on_the_beach.jpg"
   },
   {
     "id": 58,
-    "name": "Sgroppino",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Sgroppino",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante",
       "Gelado"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "Itália",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "Itália",
+    "ingredientes": [
       "½ dose de vodka",
       "Prosecco gelado",
       "1 bola de sorvete de limão",
       "5 folhas de hortelã picadas"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque a vodka na taça e complete com o prosecco.",
       "Adicione o sorvete de limão, sem mexer.",
       "Polvilhe a hortelã picada por cima e sirva imediatamente."
     ],
-    "image": "sgroppino.jpg"
+    "imagem": "sgroppino.jpg"
   },
   {
     "id": 59,
-    "name": "Sidecar",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Sidecar",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Refrescante"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "1 dose conhaque",
       "10 ml de Cointreau",
       "10 ml de suco de limão",
       "Gelo picado"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque um pouco de gelo picado na coqueteleira.",
       "Acrescente o conhaque, o Cointreau e o suco de limão.",
       "Agite bem e coe com o strainer, despejando somente o líquido na taça.",
       "Decore com uma fatia de limão."
     ],
-    "image": "sidecar.jpg"
+    "imagem": "sidecar.jpg"
   },
   {
     "id": 60,
-    "name": "Silent Siren",
-    "recipeCategory": "Alcoólico",
-    "keywords": [],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "titulo": "Silent Siren",
+    "categoria": "Alcoólico",
+    "caracteristicas": [],
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 dose de gin",
       "1 dose de bénédictine",
       "1 dose de amaretto",
@@ -1563,25 +1563,25 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione o gin, o bénédictine e o suco de romã.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Decore com uma fatia de laranja."
     ],
-    "image": "silent_siren.jpg"
+    "imagem": "silent_siren.jpg"
   },
   {
     "id": 61,
-    "name": "Sol Poente",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Sol Poente",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Brasil",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Brasil",
+    "ingredientes": [
       "25 ml de aperol",
       "50 ml de vodka",
       "80 ml de chá de hibisco",
@@ -1590,77 +1590,77 @@
       "Cubos de gelo",
       "Zeste de laranja"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Numa coqueteleira, coloque o Aperol e a vodka.",
       "Acrescente o chá de hibisco e o suco de laranja.",
       "Adicione o mel e complete com gelo.",
       "Agite bem e sirva com o gelo.",
       "Decore com o zeste de laranja."
     ],
-    "image": "sol_poente.jpg"
+    "imagem": "sol_poente.jpg"
   },
   {
     "id": 62,
-    "name": "Tequila Sour",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Tequila Sour",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "México",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "México",
+    "ingredientes": [
       "1 ½ doses de tequila",
       "½ dose de suco de limão",
       "1 colher (sopa) de açúcar",
       "Cubos de gelo",
       "1 cereja marrasquino ou uma fatia de limão para decorar"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Acrescente a tequila, o suco de limão e o açúcar.",
       "Agite bem, por cerca de 20 segundos.",
       "Coe com o strainer, despejando somente o líquido no copo.",
       "Decore com uma cereja marrasquino ou uma fatia de limão."
     ],
-    "image": "tequila_sour.jpg"
+    "imagem": "tequila_sour.jpg"
   },
   {
     "id": 63,
-    "name": "Tequila Sunrise",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Tequila Sunrise",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Doce",
       "Gelado"
     ],
-    "serveIn": "Taça",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça",
+    "origem": "",
+    "ingredientes": [
       "1 dose de tequila ouro",
       "3 doses de suco de laranja gelado",
       "Xarope de groselha",
       "1 fatia de laranja"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Despeje a dose de tequila diretamente no copo ou na taça e acrescente o suco de laranja.",
       "Misture bem com uma colher bailarina.",
       "Pingue algumas gotas de xarope de groselha e coloque uma fatia de laranja para decorar."
     ],
-    "image": "tequila_sunrise.jpg"
+    "imagem": "tequila_sunrise.jpg"
   },
   {
     "id": 64,
-    "name": "The Modernista",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "The Modernista",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "1 dose de uísque",
       "5 ml de absinto",
       "1 dose de rum ouro",
@@ -1668,58 +1668,58 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até metade da coqueteleira.",
       "Acrescente o uísque, o absinto e o rum.",
       "Adicione o suco de limão e agite bem.",
       "Coe com o strainer, despejando apenas o líquido na taça."
     ],
-    "image": "the_modernista.jpg"
+    "imagem": "the_modernista.jpg"
   },
   {
     "id": 65,
-    "name": "Vesper",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Vesper",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte",
       "Seco"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "",
+    "ingredientes": [
       "3 doses de gin",
       "1 dose de vodka",
       "1 ½ dose de Lillet Blanc",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade de uma coqueteleira.",
       "Acrescente o gin, a vodka e por fim o Lillet Blanc.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Decore com uma fatia fina e longa de casca de limão dentro do drink."
     ],
-    "image": "vesper.jpg"
+    "imagem": "vesper.jpg"
   },
   {
     "id": 66,
-    "name": "Whisky Sour",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Whisky Sour",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "1 dose de uísque",
       "⅔ de dose de suco de limão",
       "1 colher (chá) de açúcar",
       "Gelo picado"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o açúcar num prato.",
       "Molhe a borda do copo e vire-o contra o prato para preencher sua borda.",
       "Numa coqueteleira, coloque o gelo picado até sua metade.",
@@ -1727,87 +1727,87 @@
       "Agite bem despeje no copo, coando com o strainer ou não.",
       "Decore com uma fatia de limão e uma cereja marrasquino."
     ],
-    "image": "whisky_sour.jpg"
+    "imagem": "whisky_sour.jpg"
   },
   {
     "id": 67,
-    "name": "White Russian",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "White Russian",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Forte",
       "Cremoso"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "2 doses de vodka",
       "1 dose de licor de café",
       "Creme de leite",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha o copo com gelo.",
       "Adicione a vodka e, sem seguida, o licor de café.",
       "Acrescente o creme de leite e mexa até que todos os ingredientes estejam misturados."
     ],
-    "image": "white_russian.jpg"
+    "imagem": "white_russian.jpg"
   },
   {
     "id": 68,
-    "name": "Woo Woo",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Woo Woo",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Refrescante"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "2 doses de vodka",
       "1 dose de licor de pêssego",
       "4 doses de suco de cranberry",
       "Limão",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Encha ¾ do copo com gelo.",
       "Acrescente a vodka, o licor de pêssego e o suco de cranberry.",
       "Misture bem com uma colher bailarina e decore com uma fatia de limão."
     ],
-    "image": "woo_woo.jpg"
+    "imagem": "woo_woo.jpg"
   },
   {
     "id": 69,
-    "name": "Xarope Simples",
-    "recipeCategory": "",
-    "keywords": [
+    "titulo": "Xarope Simples",
+    "categoria": "",
+    "caracteristicas": [
       "Doce"
     ],
-    "serveIn": "",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "",
+    "origem": "",
+    "ingredientes": [
       "1 parte de água",
       "1 parte de açúcar refinado"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o açúcar e a água em uma panela e leve ao fogo médio, mexendo até levantar fervura.",
       "Deixe cozinhar por cerca de 2 a 3 minutos até que o açúcar esteja totalmente diluído.",
       "Desligue o fogo e leve para a geladeira para resfriar."
     ],
-    "image": "xarope_simples.jpg"
+    "imagem": "xarope_simples.jpg"
   },
   {
     "id": 70,
-    "name": "Old Fashioned",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Old Fashioned",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "½ colher (chá) de açúcar",
       "3 pitadas de angostura",
       "1 colher (chá) de água",
@@ -1815,64 +1815,64 @@
       "Cubos de gelo",
       "Casca de laranja"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque o açúcar e, em seguida, a angostura no copo.",
       "Adicione a água e então mexa com uma colher bailarina até que o açúcar esteja levemente dissolvido.",
       "Encha o copo com gelo, acrescentando o bourbon e mexendo gentilmente até que os ingredientes combinem.",
       "Passe um pouco da casca de laranja na borda do copo para soltar o óleo, jogando-a dentro dele."
     ],
-    "image": "old_fashioned.jpg"
+    "imagem": "old_fashioned.jpg"
   },
   {
     "id": 71,
-    "name": "Gibson",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Gibson",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Clássico",
       "Forte",
       "Seco",
       "Gelado"
     ],
-    "serveIn": "Taça De Coquetel",
-    "recipeCuisine": "Estados Unidos",
-    "recipeIngredient": [
+    "copo": "Taça De Coquetel",
+    "origem": "Estados Unidos",
+    "ingredientes": [
       "2½ doses de gin",
       "½ dose de vermute seco",
       "cubos de gelo",
       "cebolinhas em conserva"
     ],
-    "notes": [],
-    "recipeInstructions": [
+    "dicas": [],
+    "modo_preparo": [
       "Coloque gelo até a metade do mixing glass.",
       "Adicione overmute secoe o ginsobre o gelo e misture bem com umacolher bailarinaaté que os líquidos estejam bem gelados.",
       "Coe pelo strainer, despejando apenas o líquido na taça.",
       "Coloque trêscebolinhas em conservadentro da taça e sirva imediatamente."
     ],
-    "image": "gibson.jpg"
+    "imagem": "gibson.jpg"
   },
   {
     "id": 72,
-    "name": "Carajillo 43",
-    "recipeCategory": "Alcoólico",
-    "keywords": [
+    "titulo": "Carajillo 43",
+    "categoria": "Alcoólico",
+    "caracteristicas": [
       "Doce",
       "Amargo"
     ],
-    "serveIn": "Copo",
-    "recipeCuisine": "",
-    "recipeIngredient": [
+    "copo": "Copo",
+    "origem": "",
+    "ingredientes": [
       "50ml de Licor 43",
       "50ml de café expresso quente",
       "Cubos de gelo"
     ],
-    "notes": [],
-    "recipeInstructions": [
-      "Coloque 3 pedras de gelo no copo.",
+    "dicas": [],
+    "modo_preparo": [
+      "Coloque 3 pedras de gelono copo.",
       "Adicione o Licor 43 por cima do gelo.",
       "Sirva com uma xícara de café expresso recém tirado.",
       "OCafé expressodeverá ser derramado dentro do copo no momento em que o drink for ser bebido."
     ],
-    "image": "carajillo_43.jpg"
+    "imagem": "carajillo_43.jpg"
   }
 ]
