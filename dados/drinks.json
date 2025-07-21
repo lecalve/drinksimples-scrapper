@@ -16,7 +16,7 @@
       "1 fatia de limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade de uma coqueteleira.",
       "Adicione o gin, o suco de limão e o xarope simples.",
@@ -44,7 +44,7 @@
       "azeitonas verdes",
       "casca de limão siciliano"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade do mixing glass.",
       "Pingue três gotas de vermute seco sobre o gelo e misture levemente com uma colher bailarina.",
@@ -72,7 +72,7 @@
       "Cubos de gelo",
       "noz-moscada (para polvilhar)"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque de 3 a 5 pedras de gelo numa coqueteleira.",
       "Adicione o conhaque e o licor de cacau.",
@@ -97,7 +97,7 @@
       "45ml de xarope de gengibre",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha uma coqueteleira com gelo.",
       "Adicione a Amarula Cream e o xarope de gengibre.",
@@ -123,7 +123,7 @@
       "1 pepino para decorar",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque até metade da coqueteleira de gelo.",
       "Acrescente os morangos e as gotas de xarope simples.",
@@ -151,7 +151,7 @@
       "1 laranja",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o gelo na taça e adicione o prosecco.",
       "Acrescente o Aperol e em seguida a água com gás.",
@@ -177,7 +177,7 @@
       "500 ml de água com Gás",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Em uma panela, ferva o suco de maçã, a laranja picada em pedaços, o gengibre e a canela.",
       "Diminua o fogo e deixe cozinhar por 30 minutos em fogo baixo.",
@@ -203,7 +203,7 @@
       "5 gotas de suco de limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque 3 pedras de gelo no copo e pingue algumas gotas de limão.",
       "Adicione o bacardi big apple.",
@@ -228,7 +228,7 @@
       "½ dose de Grand Marnier",
       "½ dose de licor de café"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Adicione os ingredientes com o auxílio de uma colher bailarina nessa ordem:",
       "O licor de café.",
@@ -258,7 +258,7 @@
       "Pimenta-do-Reino preta moída a gosto",
       "1 talo de salsão e/ou um pedaço de limão siciliano para decorar"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Comece colocando o molho inglês diretamente no copo.",
       "Adicione o suco de limão, o Tabasco e o sal.",
@@ -284,7 +284,7 @@
       "Club Soda",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o gelo picado no copo, esprema meio limão e jogue a casca dentro do copo.",
       "Adicione o bourbon e complete com a Club Soda.",
@@ -308,7 +308,7 @@
       "2 colheres (sopa) rasas de açúcar refinado",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Corte as pontas do limão tahiti e corte-o em 4, retirando o miolo branco dos gomos.",
       "Em uma coqueteleira use o pilão para macerar levemente o limão junto com o açúcar.",
@@ -332,7 +332,7 @@
       "1 ameixa grande",
       "1 colher (sopa) rasa de açúcar"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Corte a ameixa em pedaços pequenos, tirando o caroço.",
       "Em uma coqueteleira, macere a ameixa junto com o açúcar.",
@@ -358,7 +358,7 @@
       "1 colher (sobremesa) de pimenta rosa",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Corte a tangerina em fatias grossas e macere com o açúcar no fundo do copo.",
       "Coloque a pimenta rosa e a cachaça.",
@@ -381,7 +381,7 @@
       "Cubos de gelo",
       "1 fatia triangular de limão"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha o copo com gelo.",
       "Adicione a vodka e acrescente o suco de cranberry.",
@@ -408,7 +408,7 @@
       "200 gramas de chocolate meio amargo",
       "3 doses de conhaque"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Pique o chocolate.",
       "Numa panela funda, coloque todos os ingredientes, menos o conhaque.",
@@ -429,8 +429,8 @@
     "origem": "",
     "ingredientes": [
       "750 ml de vinho branco",
-      "1 dose de cointreau",
-      "1 lata de Club Soda ou Água com Gás",
+      "1 dose de Cointreau",
+      "1 lata de Club Soda ou água com gás",
       "1 limão",
       "1 laranja",
       "6 morangos",
@@ -439,12 +439,12 @@
       "De 4 a 8 colheres (sopa) rasas de açúcar",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Corte a laranja e o limão em rodelas.",
       "Corte os morangos e o pêssego em pedaços.",
       "Coloque as frutas numa poncheira ou numa jarra e encha até a metade de gelo.",
-      "Adicione o cointreau, o vinho branco e, por fim, o Club Soda ou a água com gás.",
+      "Adicione o Cointreau, o vinho branco e, por fim, o Club Soda ou a água com gás.",
       "Misture levemente com a ajuda de uma colher bailarina.",
       "Decore com um ramo de hortelã.",
       "Ao servir, derrame apenas o líquido na taça."
@@ -468,7 +468,7 @@
       "20 ml de suco de limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Em um coqueteleira, coloque a melancia, o açúcar, o suco de limão e alguns cubos de gelo.",
       "Agite bem.",
@@ -494,7 +494,7 @@
       "5 nozes picadas",
       "10 pedras de gelo picadas"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "No liquidificador, bata o leite condensado, o vinho do porto, o conhaque e as nozes.",
       "Acrescente o gelo e bata novamente até obter uma mistura homogênea.",
@@ -515,12 +515,12 @@
     "ingredientes": [
       "1 dose de vodka",
       "2 doses de suco de cranberry",
-      "½ dose de cointreau",
+      "½ dose de Cointreau",
       "¼ dose de suco de limão",
       "Cubos de gelo",
       "Zeste de laranja para decorar"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione a vodka, o Cointreau, o suco de limão e, por fim, o suco de cranberry.",
@@ -544,7 +544,7 @@
       "1 ½ dose de absinto",
       "4 ½ doses de espumante gelado"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o absinto na taça e complete com o espumante.",
       "Sirva gelado."
@@ -569,7 +569,7 @@
       "¾ dose de suco de limão",
       "Cubos de gelo à vontade"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira",
       "Acrescente os ingredientes, começando pelos destilados e terminando pelos cítricos.",
@@ -591,14 +591,14 @@
     "ingredientes": [
       "100 ml de vodka",
       "20 ml vermute seco",
-      "30 ml curaçao blue",
+      "30 ml Curaçao Blue",
       "1 fatia de carambola para decorar",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
-      "Adicione a vodka, o vermute seco e o curaçao blue.",
+      "Adicione a vodka, o vermute seco e o Curaçao Blue.",
       "Agite bem e despeje apenas o líquido na taça, passando pelo strainer e por uma peneira com gelo dentro.",
       "Decore com uma fatia de carambola."
     ],
@@ -627,7 +627,7 @@
       "40 ml de creme de leite batido",
       "Noz-moscada a gosto"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Bata a gema num bowl.",
       "Aos poucos, vá juntando metade do açúcar, batendo até ficar com uma cor esbranquiçada.",
@@ -657,7 +657,7 @@
       "200 ml de energético",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Na coqueteleira, misture o vinho branco seco com o energético.",
       "Acrescente algumas pedras de gelo e agite brevemente.",
@@ -683,7 +683,7 @@
       "1 cereja marrasquino",
       "hortelã"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque algumas pedras de gelo na coqueteleira.",
       "Adicione o licor de cacau, o licor de cereja e o chantilly.",
@@ -704,14 +704,14 @@
     "origem": "",
     "ingredientes": [
       "½ dose de conhaque",
-      "½ dose de amaretto",
+      "½ dose de Amaretto",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo na coqueteleira.",
       "Acrescente o conhaque.",
-      "Adicione o amaretto.",
+      "Adicione o Amaretto.",
       "Mexa levemente com uma colher bailarina para combinar os ingredientes.",
       "Despeje com o gelo no copo e sirva."
     ],
@@ -733,7 +733,7 @@
       "Casca de limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o gin, o suco de limão e o xarope simples.",
@@ -755,15 +755,15 @@
     "origem": "",
     "ingredientes": [
       "2 doses de gin",
-      "½ dose de cointreau",
+      "½ dose de Cointreau",
       "3 doses de suco de cranberry",
       "1 colher de sopa de suco de limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
-      "Adicione o gin, o cointreau e o suco de cranberry e agite bem.",
+      "Adicione o gin, o Cointreau e o suco de cranberry e agite bem.",
       "Coe pelo strainer, despejando apenas o líquido na taça.",
       "Misture o suco de limão e decore com uma zeste de limão.",
       "Sirva gelado."
@@ -785,7 +785,7 @@
       "1 limão Tahiti",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o gelo na taça.",
       "Esprema algumas gotas do limão por cima do gelo.",
@@ -809,7 +809,7 @@
       "Limonada a gosto.",
       "2 rodelas de limão para decorar"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha o copo com pedras de gelo.",
       "Adicione o uísque e, em seguida, o suco de framboesa, misturando levemente com uma colher bailarina.",
@@ -828,15 +828,15 @@
     "origem": "",
     "ingredientes": [
       "1 dose de conhaque",
-      "3 doses de ginger ale ou espumante",
+      "3 doses de Ginger Ale ou espumante",
       "1 gota de angostura",
       "Cubos de gelo",
       "Limão"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque algumas pedras de gelo no copo.",
-      "Despeje o conhaque e o ginger ale (ou espumante) por cima do gelo.",
+      "Despeje o conhaque e o Ginger Ale (ou espumante) por cima do gelo.",
       "Mexa delicadamente com uma colher bailarina e decore com raspas de limão.",
       "Pingue algumas gotas de angostura e sirva."
     ],
@@ -860,7 +860,7 @@
       "Cubos de gelo",
       "Uma fatia de limão"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Na coqueteleira, macere o gengibre fresco e adicione o rum.",
       "Acrescente então o suco de abacaxi e o xarope simples.",
@@ -882,14 +882,14 @@
     "origem": "",
     "ingredientes": [
       "½ dose de vodka",
-      "½ dose de cointreau",
+      "½ dose de Cointreau",
       "½ dose de suco de limão fresco",
       "Gelo picado"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com o gelo picado.",
-      "Adicione a vodka e o cointreau e agite brevemente.",
+      "Adicione a vodka e o Cointreau e agite brevemente.",
       "Coe através do strainer, despejando apenas o conteúdo na taça.",
       "Decore com uma fatia de limão."
     ],
@@ -907,7 +907,7 @@
       "Espumante branco",
       "1 cereja marrasquino"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o licor de cassis na taça e complete com o espumante.",
       "Decore com uma cereja marrasquino."
@@ -926,16 +926,16 @@
     "ingredientes": [
       "Sal",
       "2 doses de tequila",
-      "¾ dose de cointreau",
+      "¾ dose de Cointreau",
       "1 dose de suco de limão",
       "1 lata de cerveja tipo lager",
       "Cubos de gelo",
       "1 fatia de limão"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Molhe a borda do copo e o coloque de cabeça para baixo num prato com sal.",
-      "Na coqueteleira coloque a tequila, o cointreau e o suco de limão, acrescente o gelo e agite bem.",
+      "Na coqueteleira coloque a tequila, o Cointreau e o suco de limão, acrescente o gelo e agite bem.",
       "Coloque uns cubos de gelo no copo e despeje a mistura, coando pelo strainer.",
       "Complete com a cerveja.",
       "Decore com uma rodela de limão."
@@ -953,14 +953,14 @@
     "origem": "",
     "ingredientes": [
       "1 dose de conhaque",
-      "1 dose de fernet branca",
+      "1 dose de Fernet Branca",
       "1 dose de licor de menta",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
-      "Adicione o conhaque, o fernet branca e o licor de menta.",
+      "Adicione o conhaque, o Fernet Branca e o licor de menta.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça."
     ],
     "imagem": "levanta_defunto.jpg"
@@ -981,7 +981,7 @@
       "1 dose de vermute doce",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione o conhaque, o conhaque de maçã e o vermute doce.",
@@ -1000,17 +1000,17 @@
     "origem": "",
     "ingredientes": [
       "½ dose de gin",
-      "½ dose de cointreau",
-      "½ dose de lillet blanc",
+      "½ dose de Cointreau",
+      "½ dose de Lillet Blanc",
       "½ dose de suco de limão",
       "1 pitada de absinto",
       "Cubos de gelo",
       "1 cereja marrasquino"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
-      "Adicione o gin, o cointreau e o lillet blanc.",
+      "Adicione o gin, o Cointreau e o Lillet Blanc.",
       "Acrescente o suco de limão e a pitada de absinto.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Coloque a cereja marrasquino e sirva."
@@ -1032,7 +1032,7 @@
       "12 gotas de adoçante",
       "500 ml de água com gás"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Numa jarra, esprema os limões e coloque o gengibre ralado.",
       "Acrescente o adoçante e a água com gás.",
@@ -1060,7 +1060,7 @@
       "2 doses de suco de toranja",
       "Gelo a vontade"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o gelo na coqueteleira.",
       "Adicione o uísque e o vinho branco.",
@@ -1085,7 +1085,7 @@
       "Club Soda",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque as folhas de hortelã na coqueteleira.",
       "Acrescente o absinto e o xarope simples.",
@@ -1105,12 +1105,17 @@
     ],
     "copo": "Taça De Coquetel",
     "origem": "Estados Unidos",
-    "ingredientes": [],
-    "dicas_ingredientes": [],
+    "ingredientes": [
+      "1 dose de uísque",
+      "1 dose de Vermute Vermelho",
+      "Angostura",
+      "1 cereja marrasquino"
+    ],
+    "dicas": [],
     "modo_preparo": [
       "Na taça já gelada, coloque o uísque.",
       "Adicione o vermute vermelho e mexa levemente.",
-      "Pingue algumas gotas de angostura e coloque a cereja marrasquino dentro."
+      "Pingue algumas gotas de Angostura e coloque a cereja marrasquino dentro."
     ],
     "imagem": "manhattan.jpg"
   },
@@ -1126,20 +1131,20 @@
     "origem": "México",
     "ingredientes": [
       "1 dose de tequila",
-      "½ dose de cointreau",
+      "½ dose de Cointreau",
       "½ dose de suco de limão",
       "2 colheres (chá) bem cheias de açúcar refinado",
       "Cubos de gelo",
       "1 lasca de limão",
       "sal"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Espalhe o sal sobre um prato.",
       "Esfregue a lasca de limão em meia borda da taça.",
       "Mergulhe a borda da taça no sal e reserve.",
       "Na coqueteleira, coloque o suco de limão com o açúcar e agite até dissolver parcialmente (cerca de 5 segundos).",
-      "Adicione o cointreau, a tequila e 1 xícara de cubos de gelo.",
+      "Adicione o Cointreau, a tequila e 1 xícara de cubos de gelo.",
       "Agite vigorosamente durante 25 segundos e despeje tudo na taça que estava reservada.",
       "Coloque mais alguns cubos de gelo na taça, decore com uma rodela de limão e sirva."
     ],
@@ -1163,7 +1168,7 @@
       "Cubos de gelo",
       "Fatias de melancia"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Adicione todos os ingredientes e agite bem.",
@@ -1190,7 +1195,7 @@
       "20 ml de licor de lichia",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione a vodka e o vermute seco.",
@@ -1219,7 +1224,7 @@
       "molho inglês",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Misture o sal e o chilli em pó em um prato.",
       "Passe um pedaço de limão na borda do copo e vire-o contra o prato para preencher suas bordas.",
@@ -1248,7 +1253,7 @@
       "½ xícara de água com gás",
       "5 ou 6 cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Corte o limão em quatro gomos.",
       "Coloque as folhas de hortelã e 1 gomo de limão no copo.",
@@ -1279,7 +1284,7 @@
       "½ dose de suco de limão",
       "½ dose de xarope simples"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Rale cerca de 2 cm de gengibre e esprema para tirar seu suco, cerca de ½ dose.",
       "Coloque num bowl a clara de ovo junto com o xarope simples.",
@@ -1301,13 +1306,13 @@
     "copo": "Copo",
     "origem": "Itália",
     "ingredientes": [
-      "1 dose de campari",
+      "1 dose de Campari",
       "1 dose de gin",
       "1 dose de vermute doce",
       "1 casca de laranja",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha o copo com gelo até a borda.",
       "Adicione o campari, o gin e o vermute doce.",
@@ -1324,7 +1329,7 @@
     "copo": "Taça De Coquetel",
     "origem": "",
     "ingredientes": [],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque as frutas em uma coqueteleira e macere com o pilão até que fiquem em polpa, sem pedaços grandes.",
       "Adicione a vodka e o xarope simples e agite novamente.",
@@ -1349,7 +1354,7 @@
       "¼ dose de Grand Marnier",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque alguns cubos de gelo no copo.",
       "Adicione o Cointreau, o Bailey's e o Grand Marnier.",
@@ -1375,7 +1380,7 @@
       "½ dose de creme de leite",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira, adicione o rum e o suco de abacaxi.",
       "Mexa levemente e acrescente o leite de coco, o leite condensado e o creme de leite.",
@@ -1401,7 +1406,7 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Na coqueteleira, coloque o pisco, o xarope simples e o suco de limão.",
       "Acrescente a clara de ovo e agite bem por cerca de 10 segundos.",
@@ -1429,7 +1434,7 @@
       "8 cravos da índia",
       "Casca de uma laranja"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Limpe o gengibre e corte em pedaços de cerca de 1 cm cada.",
       "Numa panela grande, coloque o açúcar e o gengibre e aqueça em fogo médio até virar caramelo.",
@@ -1458,7 +1463,7 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione o uísque, o vermute doce e duas gotas de angostura.",
@@ -1484,7 +1489,7 @@
       "xarope de groselha",
       "2 cubos de gelo moídos."
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o gelo moído no copo ou na taça.",
       "Na coqueteleira, coloque a vodka, em seguida adicione o licor de pêssego e complete com o suco de laranja.",
@@ -1509,7 +1514,7 @@
       "1 bola de sorvete de limão",
       "5 folhas de hortelã picadas"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque a vodka na taça e complete com o prosecco.",
       "Adicione o sorvete de limão, sem mexer.",
@@ -1533,7 +1538,7 @@
       "10 ml de suco de limão",
       "Gelo picado"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque um pouco de gelo picado na coqueteleira.",
       "Acrescente o conhaque, o Cointreau e o suco de limão.",
@@ -1558,7 +1563,7 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade da coqueteleira.",
       "Adicione o gin, o bénédictine e o suco de romã.",
@@ -1585,7 +1590,7 @@
       "Cubos de gelo",
       "Zeste de laranja"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Numa coqueteleira, coloque o Aperol e a vodka.",
       "Acrescente o chá de hibisco e o suco de laranja.",
@@ -1611,7 +1616,7 @@
       "Cubos de gelo",
       "1 cereja marrasquino ou uma fatia de limão para decorar"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha a coqueteleira com gelo.",
       "Acrescente a tequila, o suco de limão e o açúcar.",
@@ -1638,7 +1643,7 @@
       "Xarope de groselha",
       "1 fatia de laranja"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Despeje a dose de tequila diretamente no copo ou na taça e acrescente o suco de laranja.",
       "Misture bem com uma colher bailarina.",
@@ -1663,7 +1668,7 @@
       "Angostura",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até metade da coqueteleira.",
       "Acrescente o uísque, o absinto e o rum.",
@@ -1683,11 +1688,16 @@
     ],
     "copo": "Taça De Coquetel",
     "origem": "",
-    "ingredientes": [],
-    "dicas_ingredientes": [],
+    "ingredientes": [
+      "3 doses de gin",
+      "1 dose de vodka",
+      "1 ½ dose de Lillet Blanc",
+      "Cubos de gelo"
+    ],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade de uma coqueteleira.",
-      "Acrescente o gin, a vodka e por fim o lillet blanc.",
+      "Acrescente o gin, a vodka e por fim o Lillet Blanc.",
       "Agite bem e coe pelo strainer, despejando apenas o líquido na taça.",
       "Decore com uma fatia fina e longa de casca de limão dentro do drink."
     ],
@@ -1708,7 +1718,7 @@
       "1 colher (chá) de açúcar",
       "Gelo picado"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o açúcar num prato.",
       "Molhe a borda do copo e vire-o contra o prato para preencher sua borda.",
@@ -1735,7 +1745,7 @@
       "Creme de leite",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha o copo com gelo.",
       "Adicione a vodka e, sem seguida, o licor de café.",
@@ -1759,7 +1769,7 @@
       "Limão",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Encha ¾ do copo com gelo.",
       "Acrescente a vodka, o licor de pêssego e o suco de cranberry.",
@@ -1780,7 +1790,7 @@
       "1 parte de água",
       "1 parte de açúcar refinado"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o açúcar e a água em uma panela e leve ao fogo médio, mexendo até levantar fervura.",
       "Deixe cozinhar por cerca de 2 a 3 minutos até que o açúcar esteja totalmente diluído.",
@@ -1805,7 +1815,7 @@
       "Cubos de gelo",
       "Casca de laranja"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque o açúcar e, em seguida, a angostura no copo.",
       "Adicione a água e então mexa com uma colher bailarina até que o açúcar esteja levemente dissolvido.",
@@ -1832,7 +1842,7 @@
       "cubos de gelo",
       "cebolinhas em conserva"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque gelo até a metade do mixing glass.",
       "Adicione overmute secoe o ginsobre o gelo e misture bem com umacolher bailarinaaté que os líquidos estejam bem gelados.",
@@ -1856,7 +1866,7 @@
       "50ml de café expresso quente",
       "Cubos de gelo"
     ],
-    "dicas_ingredientes": [],
+    "dicas": [],
     "modo_preparo": [
       "Coloque 3 pedras de gelono copo.",
       "Adicione o Licor 43 por cima do gelo.",
